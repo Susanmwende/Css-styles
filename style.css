@@ -1,0 +1,29 @@
+#container{
+    border: solid 1px;
+    padding: 24px;
+    margin: 0 auto;
+    width: 50%;
+}
+.input{
+    padding: 4px 12px;
+    border-radius: 1px;
+    border: solid 1px;
+    width: 70%;
+}
+button{
+    padding: 10px 16px;
+    border: none;
+    background-color: black;
+    color: antiquewhite;
+    width: 70%;
+}
+.center{
+    width:20px ;
+        height:20px ;
+        margin-left:20% ;
+        margin-right:20% ;
+
+}
+table{
+    table,th,td {border: 1px solid black;}
+}
